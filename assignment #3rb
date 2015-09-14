@@ -1,0 +1,5 @@
+side_a = 20
+side_b = 6
+
+side_a**2 + side_b**2
+Answer = Math.sqrt(16)
